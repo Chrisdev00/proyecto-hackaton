@@ -2,7 +2,7 @@
 
 <p id="description">Esta es una Página de Inicio de un sitio web diseñada para mostrar diferentes destinos turísticos de mi país. La página incluye un control deslizante de imagen que se puede arrastrar en pantalla completa para una experiencia interactiva.</p>
 
-<img src="./assets/preview.png"/>  
+<img src="./assets/preview-1.png"/>  
   
 <h2>💻 Built with</h2>
 
